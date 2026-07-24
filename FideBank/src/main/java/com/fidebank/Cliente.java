@@ -37,3 +37,5 @@ public class Cliente implements Serializable {
     public String getCedula() { return cedula; }
     public ArrayList<Cuenta> getCuentas() { return cuentas; }
 }
+
+//bla bla bla
